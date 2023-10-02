@@ -14,8 +14,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "AurycSDK",
-      url: "https://storage.googleapis.com/auryc-sdk-ios/AurycSDK.xcframework_rc3_2.2.0.zip",
-      checksum: "dae7be939e7705935b62ceb92d0ac88c8fdaa86fd8944b279d8c78620fc02cd3"
+      url: "https://storage.googleapis.com/auryc-sdk-ios/AurycSDK.xcframework_rc1_2.2.1.zip",
+      checksum: "b1db72b3c9a79cb1c47346d7430fb4729b6fae74b4a3ddc2c482268af104d702"
     ),
   ]
 )
